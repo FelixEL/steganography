@@ -1,0 +1,44 @@
+# depslib dependency file v1.0
+946681200 source:c:\users\bartek\workspace\programowanie\stegano\steganografia\bitmap\bitmap_test.cpp
+	<cmath>
+	<cstdio>
+	<cstdlib>
+	<iostream>
+	<string>
+	"bitmap_image.hpp"
+
+946681200 c:\users\bartek\workspace\programowanie\stegano\steganografia\bitmap\bitmap_image.hpp
+	<algorithm>
+	<cmath>
+	<cstdlib>
+	<cstring>
+	<fstream>
+	<iostream>
+	<iterator>
+	<limits>
+	<string>
+	<vector>
+
+1497564675 source:c:\users\bartek\workspace\programowanie\stegano\steganografia\main.cpp
+	<iostream>
+	"bitmap/bitmap_image.hpp"
+	"encoder.h"
+	"decoder.h"
+	<string>
+
+1497562460 source:c:\users\bartek\workspace\programowanie\stegano\steganografia\src\decoder.cpp
+	"decoder.h"
+
+1497521402 c:\users\bartek\workspace\programowanie\stegano\steganografia\include\decoder.h
+	"../bitmap/bitmap_image.hpp"
+	<string>
+	<bitset>
+
+1497516510 c:\users\bartek\workspace\programowanie\stegano\steganografia\include\encoder.h
+	"../bitmap/bitmap_image.hpp"
+	<string>
+	<bitset>
+
+1497564611 source:c:\users\bartek\workspace\programowanie\stegano\steganografia\src\encoder.cpp
+	"encoder.h"
+
